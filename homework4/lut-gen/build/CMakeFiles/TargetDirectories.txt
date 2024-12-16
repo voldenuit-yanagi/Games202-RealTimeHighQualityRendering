@@ -1,0 +1,6 @@
+/Users/liushijia/Desktop/Games202/homework4/lut-gen/build/CMakeFiles/lut-Emu-MC.dir
+/Users/liushijia/Desktop/Games202/homework4/lut-gen/build/CMakeFiles/lut-Eavg-MC.dir
+/Users/liushijia/Desktop/Games202/homework4/lut-gen/build/CMakeFiles/lut-Emu-IS.dir
+/Users/liushijia/Desktop/Games202/homework4/lut-gen/build/CMakeFiles/lut-Eavg-IS.dir
+/Users/liushijia/Desktop/Games202/homework4/lut-gen/build/CMakeFiles/edit_cache.dir
+/Users/liushijia/Desktop/Games202/homework4/lut-gen/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lut-gen",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lut-Eavg-IS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lut-Eavg-IS-ac5349ec4781dc716ef2.json",
+					"name" : "lut-Eavg-IS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lut-Eavg-MC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lut-Eavg-MC-93c861ea61b968da67fa.json",
+					"name" : "lut-Eavg-MC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lut-Emu-IS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lut-Emu-IS-507d2eeae9d5a6ae6891.json",
+					"name" : "lut-Emu-IS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lut-Emu-MC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lut-Emu-MC-8f77a0dc1bfd71ab0120.json",
+					"name" : "lut-Emu-MC",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/liushijia/Desktop/Games202/homework4/lut-gen/build",
+		"source" : "/Users/liushijia/Desktop/Games202/homework4/lut-gen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
